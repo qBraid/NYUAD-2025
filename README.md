@@ -62,7 +62,7 @@ on quantum computing, using Azure Quantum.
 
 [QAOA to solve QUBO using Pasqal](https://github.com/pasqal-io/Pulser/blob/develop/tutorials/applications/QAOA%20and%20QAA%20to%20solve%20a%20QUBO%20problem.ipynb)
 
-
+[Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/)
 
 Note: Teams will have access to QPUs only if they have successfully demonstrated the following:
 - a. Ran and passed on emulator or simulator.
